@@ -18,7 +18,7 @@ let yvalues;
 
 
 function preload() {
-  myMovingslug = loadSpriteSheet('abstract/ElvisSlugslime.png', 96, 96, 40);
+  myMovingslug = loadSpriteSheet('abstract/ElvisSlugSlime.png', 96, 96, 40);
   mySlug = loadAnimation(myMovingslug);
 }
 
